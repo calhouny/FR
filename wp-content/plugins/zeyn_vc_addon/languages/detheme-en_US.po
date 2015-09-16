@@ -1,0 +1,1079 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Detheme Visual Composer Add On\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2014-02-27 05:25:07+00:00\n"
+"PO-Revision-Date: 2015-04-28 13:29+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: detheme.com <support@detheme.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: lib/map.php:5
+msgid "Icon Box"
+msgstr ""
+
+#: lib/map.php:15
+msgid "Icon"
+msgstr ""
+
+#: lib/map.php:20
+msgid "Select the icon to be displayed by clicking the icon."
+msgstr ""
+
+#: lib/map.php:24
+msgid "Layout type"
+msgstr ""
+
+#: lib/map.php:28
+msgid "Type 1: Squared Border Icon"
+msgstr ""
+
+#: lib/map.php:29
+msgid "Type 2: Circled Border Icon"
+msgstr ""
+
+#: lib/map.php:30
+msgid "Type 3: Squared Border Icon with Counter"
+msgstr ""
+
+#: lib/map.php:31
+msgid "Type 4: Squared Border Box"
+msgstr ""
+
+#: lib/map.php:32
+msgid "Type 5: Circled Border and Transparent Icon"
+msgstr ""
+
+#: lib/map.php:33
+msgid "Type 6: Squared Box With Hover Color"
+msgstr ""
+
+#: lib/map.php:34
+msgid "Type 7: Circled boxes Icon On Left"
+msgstr ""
+
+#: lib/map.php:37
+msgid "Choose the icon layout you want to use."
+msgstr ""
+
+#: lib/map.php:41
+msgid "Iconbox heading"
+msgstr ""
+
+#: lib/map.php:48
+msgid "Iconbox Heading Color"
+msgstr ""
+
+#: lib/map.php:55
+msgid "Iconbox Counter Number"
+msgstr ""
+
+#: lib/map.php:59
+msgid "A value will count-up."
+msgstr ""
+
+#: lib/map.php:64
+msgid "Iconbox text"
+msgstr ""
+
+#: lib/map.php:68
+msgid "Text info"
+msgstr ""
+
+#: lib/map.php:72
+msgid "Link"
+msgstr ""
+
+#: lib/map.php:79
+msgid "Target"
+msgstr ""
+
+#: lib/map.php:82
+msgid "Blank"
+msgstr ""
+
+#: lib/map.php:82
+msgid "Self"
+msgstr ""
+
+#: lib/map.php:83
+msgid "Link Target"
+msgstr ""
+
+#: lib/map.php:87
+msgid "Animation Type"
+msgstr ""
+
+#: lib/map.php:92
+msgid "Scroll Spy not activated"
+msgstr ""
+
+#: lib/map.php:93
+msgid "The element fades in"
+msgstr ""
+
+#: lib/map.php:94
+msgid "The element scales up"
+msgstr ""
+
+#: lib/map.php:95
+msgid "The element scales down"
+msgstr ""
+
+#: lib/map.php:96
+msgid "The element slides in from the top"
+msgstr ""
+
+#: lib/map.php:97
+msgid "The element slides in from the bottom"
+msgstr ""
+
+#: lib/map.php:98
+msgid "The element slides in from the left"
+msgstr ""
+
+#: lib/map.php:99
+msgid "The element slides in from the right."
+msgstr ""
+
+#: lib/map.php:101
+msgid "Scroll spy effects"
+msgstr ""
+
+#: lib/map.php:105
+msgid "Animation Delay"
+msgstr ""
+
+#: lib/map.php:109
+msgid "The number of delay the animation effect of the icon. in milisecond"
+msgstr ""
+
+#: lib/map.php:119
+msgid "Section Heading"
+msgstr ""
+
+#: lib/map.php:133
+msgid "Type 1: With Icon"
+msgstr ""
+
+#: lib/map.php:134
+msgid "Type 2: No Icon"
+msgstr ""
+
+#: lib/map.php:136
+msgid "The icon will show if type 1 selected."
+msgstr ""
+
+#: lib/map.php:150
+msgid "Pre Heading"
+msgstr ""
+
+#: lib/map.php:154
+msgid "Leave blank if no pre heading"
+msgstr ""
+
+#: lib/map.php:159
+msgid "Text Heading"
+msgstr ""
+
+#: lib/map.php:167
+msgid "Sub Heading"
+msgstr ""
+
+#: lib/map.php:171
+msgid "Leave it blank to hide sub heading"
+msgstr ""
+
+#: lib/map.php:175
+msgid "Text Alignment"
+msgstr ""
+
+#: lib/map.php:178
+msgid "Center"
+msgstr ""
+
+#: lib/map.php:178
+msgid "Button Align"
+msgstr ""
+
+#: lib/map.php:178
+msgid "Label Align"
+msgstr ""
+
+#: lib/map.php:178
+msgid "Left"
+msgstr ""
+
+#: lib/map.php:178
+msgid "Right"
+msgstr ""
+
+#: lib/map.php:183
+msgid "Line type"
+msgstr ""
+
+#: lib/map.php:187
+msgid "Center line"
+msgstr ""
+
+#: lib/map.php:188
+msgid "Full width"
+msgstr ""
+
+#: lib/map.php:190
+msgid "Line separator between main heading and sub heading."
+msgstr ""
+
+#: lib/map.php:195
+msgid "Text Color"
+msgstr ""
+
+#: lib/map.php:205
+msgid "Pricing Table"
+msgstr ""
+
+#: lib/map.php:216
+msgid "Module Title"
+msgstr ""
+
+#: lib/map.php:223
+msgid "Number of Price Column"
+msgstr ""
+
+#: lib/map.php:226
+msgid "One"
+msgstr ""
+
+#: lib/map.php:227
+msgid "Two"
+msgstr ""
+
+#: lib/map.php:228
+msgid "Three"
+msgstr ""
+
+#: lib/map.php:229
+msgid "Four"
+msgstr ""
+
+#: lib/map.php:260
+msgid "Price Item"
+msgstr ""
+
+#: lib/map.php:271
+msgid "Most popular"
+msgstr ""
+
+#: lib/map.php:273
+msgid "Yes"
+msgstr ""
+
+#: lib/map.php:273
+msgid "No"
+msgstr ""
+
+#: lib/map.php:278
+msgid "Package Name"
+msgstr ""
+
+#: lib/map.php:284
+msgid "Package Heading"
+msgstr ""
+
+#: lib/map.php:290
+msgid "Currency Symbol"
+msgstr ""
+
+#: lib/map.php:296
+msgid "Price"
+msgstr ""
+
+#: lib/map.php:305
+msgid ""
+"Type package detail in single line (without breakline/enter). Each breakline "
+"is automatically detected as new detail item"
+msgstr ""
+
+#: lib/map.php:302
+msgid "Package Detail"
+msgstr ""
+
+#: lib/map.php:309
+msgid "\"Button\" Link"
+msgstr ""
+
+#: lib/map.php:315
+msgid "\"Button\" Text"
+msgstr ""
+
+#: lib/map.php:354
+msgid "Vertical Slider"
+msgstr ""
+
+#: lib/map.php:372
+msgid "Module Height"
+msgstr ""
+
+#: lib/map.php:374
+msgid "Module height in pixel. Leave blank for auto"
+msgstr ""
+
+#: lib/map.php:379
+msgid "Image Position"
+msgstr ""
+
+#: lib/map.php:386
+msgid "Slide image position"
+msgstr ""
+
+#: lib/map.php:420
+msgid "Slide Item"
+msgstr ""
+
+#: lib/map.php:439
+msgid "Main Title"
+msgstr ""
+
+#: lib/map.php:445
+msgid "Sub Title"
+msgstr ""
+
+#: lib/map.php:451
+msgid "Slide Image"
+msgstr ""
+
+#: lib/map.php:644
+msgid "Vertical Tab"
+msgstr ""
+
+#: lib/map.php:662
+msgid "Navigation Position"
+msgstr ""
+
+#: lib/map.php:677
+msgid "Tab Item"
+msgstr ""
+
+#: lib/map.php:708
+msgid "Content"
+msgstr ""
+
+#: lib/map.php:850
+msgid "Portfolio Image"
+msgstr ""
+
+#: lib/map.php:860
+msgid "Portfolio Category"
+msgstr ""
+
+#: lib/map.php:866
+msgid "Number of Posts to be displayed"
+msgstr ""
+
+#: lib/map.php:872
+msgid "Slide Speed"
+msgstr ""
+
+#: lib/map.php:876
+msgid "Slide speed (in millisecond). The lower value the faster slides"
+msgstr ""
+
+#: lib/map.php:880
+msgid "Autoplay"
+msgstr ""
+
+#: lib/map.php:882
+msgid "Set Autoplay"
+msgstr ""
+
+#: lib/map.php:913
+msgid "All Categories"
+msgstr ""
+
+#: lib/map.php:943
+msgid "Carousel"
+msgstr ""
+
+#: lib/map.php:958
+msgid "DT Carousel"
+msgstr ""
+
+#: lib/map.php:982
+msgid "Slide Interval"
+msgstr ""
+
+#: lib/map.php:984
+msgid "Slide Interval (in millisecond)"
+msgstr ""
+
+#: lib/map.php:982
+msgid "Pagination"
+msgstr ""
+
+#: lib/map.php:984
+msgid "Pagination Setting"
+msgstr ""
+
+#: lib/map.php:988
+msgid "Show"
+msgstr ""
+
+#: lib/map.php:988
+msgid "Hidden"
+msgstr ""
+
+#: lib/map.php:994
+msgid "Pagination Type"
+msgstr ""
+
+#: lib/map.php:1000
+msgid "Standard"
+msgstr ""
+
+#: lib/map.php:1001
+msgid "Custom Image"
+msgstr ""
+
+#: lib/map.php:1002
+msgid "Custom Icon"
+msgstr ""
+
+#: lib/map.php:1008
+msgid "Pagination Image"
+msgstr ""
+
+#: lib/map.php:1016
+msgid "Pagination Icon"
+msgstr ""
+
+#: lib/map.php:1020
+msgid "The icon you want as pagination"
+msgstr ""
+
+#: lib/map.php:1025
+msgid "Column"
+msgstr ""
+
+#: lib/map.php:1027
+msgid "Number of columns on screen larger than 1200px screen resolution"
+msgstr ""
+
+#: lib/map.php:1030
+msgid "One Column"
+msgstr ""
+
+#: lib/map.php:1031
+msgid "Two Columns"
+msgstr ""
+
+#: lib/map.php:1032
+msgid "Three Columns"
+msgstr ""
+
+#: lib/map.php:1033
+msgid "Four Columns"
+msgstr ""
+
+#: lib/map.php:1038
+msgid "Desktop Column"
+msgstr ""
+
+#: lib/map.php:1040
+msgid "items between 1200px and 1023px"
+msgstr ""
+
+#: lib/map.php:1051
+msgid "Desktop Small Column"
+msgstr ""
+
+#: lib/map.php:1053
+msgid "items between 1024px and 768px"
+msgstr ""
+
+#: lib/map.php:1064
+msgid "Tablet Column"
+msgstr ""
+
+#: lib/map.php:1066
+msgid "items between 768px and 600px"
+msgstr ""
+
+#: lib/map.php:1077
+msgid "Mobile Column"
+msgstr ""
+
+#: lib/map.php:1079
+msgid "items below 600px"
+msgstr ""
+
+#: lib/map.php:1272
+msgid "Custom Team Item"
+msgstr ""
+
+#: lib/map.php:1294
+msgid "Description"
+msgstr ""
+
+#: lib/map.php:1300
+msgid "Image"
+msgstr ""
+
+#: lib/map.php:1307
+msgid "Social Link"
+msgstr ""
+
+#: lib/map.php:1373
+msgid "Timeline"
+msgstr ""
+
+#: lib/map.php:1397
+msgid "Timeline Item"
+msgstr ""
+
+#: lib/map.php:1397
+msgid "Position"
+msgstr ""
+
+#: lib/map.php:1418
+msgid "Title"
+msgstr ""
+
+#: lib/map.php:1425
+msgid "Text"
+msgstr ""
+
+#: lib/map.php:1510
+msgid "Progress Bar Item"
+msgstr ""
+
+#: lib/map.php:1536
+msgid "Value"
+msgstr ""
+
+#: lib/map.php:1542
+msgid "Units"
+msgstr ""
+
+#: lib/map.php:1548
+msgid "Bar Color"
+msgstr ""
+
+#: lib/map.php:1554
+msgid "Background Color"
+msgstr ""
+
+#: lib/map.php:1568
+msgid "Circle Bar"
+msgstr ""
+
+#: lib/map.php:1598
+msgid "Segment Width"
+msgstr ""
+
+#: lib/map.php:1620
+msgid "Twitter Slider"
+msgstr ""
+
+#: lib/map.php:1630
+msgid "Twitter Account:"
+msgstr ""
+
+#: lib/map.php:1637
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: lib/map.php:1644
+msgid "Date Format:"
+msgstr ""
+
+#: lib/map.php:1646
+msgid ""
+"%d : day, %m: month in number, %b: textual month abbreviation, %B: textual "
+"month, %y: 2 digit year, %Y: 4 digit year"
+msgstr ""
+
+#: lib/map.php:1652
+msgid "Template :"
+msgstr ""
+
+#: lib/map.php:1657
+msgid "{{date}}: Post Date, {{tweet}}: tweet text"
+msgstr ""
+
+#: lib/map.php:1660
+msgid "Auto Play:"
+msgstr ""
+
+#: lib/map.php:1672
+msgid "Transition Threshold (msec):"
+msgstr ""
+
+#: lib/map.php:1757
+msgid "Add New Icon"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "No css font available, please check plugin folder <b>%s</b>"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Optin Form"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Headline"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Sub-Headline"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Optin Code"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "put your optin form code here"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Footer Text"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Enter your optin form footer text."
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Countdown Timer"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Year"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "choose a year the event. ex: %d"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Month"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "choose month the event"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "choose day of the month the event. ex: %s"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Time format hour:minute. ex: %s"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "The content before countdown block"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "On Complete Countdown Message"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "The content will show after countdown expired. Simple html allowed"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Redirect Url after countdown is completed"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Countdown Box Color"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Countdown Text Color"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Countdown Label Color"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Double Dot Color"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "If countdown expired, the page will be redirected to this url"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Choose Layout"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Design options"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Button Text"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Submit Button"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Button Text Color"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Name Label"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Email Label"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Button Color"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Button Gradient Color"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Button Gradient Color To"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Button Font Size"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Element Height"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Button Width"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Inputbox Padding Vertical"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Inputbox Padding Horizontal"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Button Border Radius"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Inputbox Radius"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Full Width Button"
+msgstr ""
+
+#: lib/map.php:1767
+msgid "Button Preview"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Your email"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Your name"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Submit"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Use this widget to show countdown"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Show partner logo"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Google Map"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Show google map"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Latitude"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "put your latitude coordinate your location, ex: -7.2852292"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Longitude"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "put your longitude coordinate your location, ex: 112.6809869"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Zoom Level"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "zoom level ypur map, higher value present more detail."
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Zoom Control"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Show/hide zoom control"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Pan Control"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Show/hide pan control"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Street View Control"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Show/hide street view control"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Mouse Scroll Wheel"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Disable/enable mouse scroll to control zoom"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Enable"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Disable"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Map Height"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Map Width"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Map Marker"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Default"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Image Marker"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Select image as marker your location on the map"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Map Style"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Shades of Grey"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Midnight Commander"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Blue water"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Light Monochrome"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Neutral Blue"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Avocado World"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Nature"
+msgstr ""
+
+#: lib/shortcode.php:787
+msgid "Pastel Tones"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Large"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Small"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Medium"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Extra small"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Font Size"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Extra Large"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Font Style"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Font Weight"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Custom Font Size"
+msgstr ""
+
+msgid "Custom Size"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Timeline Separator"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Square"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Circle"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Exit Popup"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Popup Overlay Background Color"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Popup Background Color"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Height the popup message in pixel"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Popup Height"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Width the popup message in pixel"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Popup Width"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Adding exit popup, 1 element allowed"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Separator"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Separator Position"
+msgstr ""
+
+msgid "Separator Color"
+msgstr ""
+
+#: countdown
+msgid "Years"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Seconds"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "Minute"
+msgstr ""
+
+msgid "Second"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""

@@ -1,0 +1,21 @@
+[13-Jun-2015 02:27:45 UTC] WordPress database error Can't DROP 'slug'; check that column/key exists for query ALTER TABLE wp_terms DROP INDEX slug, ADD INDEX slug(slug(191)) made by wp_upgrade, pre_schema_upgrade
+[13-Jun-2015 05:53:25 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:53:26 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:54:14 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:54:14 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:54:18 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:54:22 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:54:22 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:01 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:04 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:07 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:09 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:14 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:16 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:18 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:19 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:20 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:21 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:23 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:42 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138
+[13-Jun-2015 05:55:47 UTC] PHP Fatal error:  Cannot call overloaded function for non-object in /home/tfields07/dev/fieldsresi/wp-content/plugins/pagelines-connect/pagelines-connect.php on line 138

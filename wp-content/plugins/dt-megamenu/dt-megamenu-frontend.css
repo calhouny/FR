@@ -1,0 +1,461 @@
+/**
+* ----------------------------------------------------------------------
+* Mega Menu Styling Rules
+*/
+
+@media only screen and (min-width: 768px) {
+
+	.megamenu-parent *,
+	.megamenu-parent *:before,
+	.megamenu-parent *:after {
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+	.megamenu-parent[data-width='full'],
+	.megamenu-parent.mm-width-full {
+		position: static!important;
+		/*  we need this property to make sure megamenu width:100% go to the edge */
+	}
+
+	.megamenu-parent > .megamenu-sub-menu {
+		display: block;
+		visibility: hidden;
+		position: absolute;
+	}
+
+	.megamenu-parent:hover > .megamenu-sub-menu {
+		left: 0;
+		right: auto;
+		visibility: visible;
+	}
+
+		/* Triangle for megamenu parent*/
+
+		.megamenu-parent:hover:after {
+			position: absolute;
+			border-color: transparent transparent transparent;
+			border-style: inset inset solid;
+			border-width: 6px;
+			/*content: "";*/
+			display: block;
+			height: 0;
+			width: 0;
+			margin-left: 40px;
+			margin-top: -11px;
+		}
+
+		/* Menu list inside megamenu dropdown */
+		.megamenu-parent > .megamenu-sub-menu .megamenu-inner-sub-menu > li {
+			width: 100%;
+			float: left;
+			clear: both;
+		}
+
+		/*.megamenu-parent > .megamenu-sub-menu > .megamenu-sub-menu,*/
+		.megamenu-inner-sub-menu .megamenu-inner-sub-menu > li li {
+			padding-left: 10px;
+		}
+
+		.megamenu-parent > .megamenu-sub-menu .megamenu-inner-sub-menu > li > a {
+			width: 100%;
+			display: block;
+			padding-left: 0;
+			padding-right: 0;
+		}
+
+		.megamenu-parent > .megamenu-sub-menu .megamenu-column {
+			float: left;
+			width: 100%;
+		}
+
+		.megamenu-parent.megamenu-columns-2 > .megamenu-sub-menu > .megamenu-column {
+			width: 50%;
+		}
+
+		.megamenu-parent.megamenu-columns-3 > .megamenu-sub-menu > .megamenu-column {
+			width: 33.2%;
+		}
+
+		.megamenu-parent.megamenu-columns-4 > .megamenu-sub-menu > .megamenu-column {
+			width: 25%;
+		}
+
+		.megamenu-parent.megamenu-columns-5 > .megamenu-sub-menu > .megamenu-column {
+			width: 20%;
+		}
+
+		.megamenu-parent.megamenu-columns-6 > .megamenu-sub-menu > .megamenu-column {
+			width: 16.66%;
+		}
+
+		.megamenu-parent.megamenu-columns-7 > .megamenu-sub-menu > .megamenu-column {
+			width: 14.2%;
+		}
+
+		.megamenu-parent.megamenu-columns-8 > .megamenu-sub-menu > .megamenu-column {
+			width: 12.5%;
+		}
+
+		.megamenu-parent .megamenu-column > a,
+		.megamenu-parent .megamenu-column a.parent-link {
+			display: none!important;
+		}
+
+		/* Standard columns and content elements padding */
+
+		.megamenu-parent .megamenu-column,
+		.megamenu-parent > .megamenu-sub-menu > .megamenu-content {
+			padding: 30px;
+		}
+
+		/* In some situations we need to break this padding */
+		.megamenu-parent .megamenu-column.no-padding,
+		.megamenu-parent > .megamenu-sub-menu > .megamenu-content.no-padding {
+			padding: 0;
+		}
+
+			.megamenu-parent > .megamenu-sub-menu .megamenu-column:hover {
+				background: transparent;
+			}
+			.megamenu-parent > .megamenu-sub-menu .megamenu-column > a {
+				display: none;
+			}
+			.megamenu-parent > .megamenu-sub-menu .megamenu-column .megamenu-inner-sub-menu {
+				/*visibility: visible;*/
+				left: auto;
+				position: relative;
+				display: block;
+			}
+
+			.megamenu-parent:hover > .megamenu-sub-menu .megamenu-column .megamenu-inner-sub-menu {
+				visibility: visible;
+			}
+			.megamenu-parent > .megamenu-sub-menu .megamenu-inner-sub-menu li:not(.megamenu-content) > a {
+				padding: 3px 0;
+			}
+
+			.megamenu-parent > .megamenu-sub-menu .megamenu-inner-sub-menu li:not(.megamenu-content):not(.megamenu-heading) > a {
+				padding-left: 13px;
+			}
+
+	.megamenu-parent > .megamenu-sub-menu .megamenu-inner-sub-menu li:hover > a {
+		background: none;
+	}
+		.megamenu-parent .megamenu-heading > a:after {
+			display: none;
+		}
+		.megamenu-parent .megamenu-heading:hover,
+		.megamenu-parent .megamenu-heading > a:hover,
+		.megamenu-parent .megamenu-content:hover,
+		.megamenu-parent .megamenu-content > a:hover {
+			background: none;
+		}
+
+	/* Content Mega-Menu Element Styling */
+	.megamenu-parent .megamenu-content {
+		width: 100%;
+	}
+
+
+	/* Icons right margin */
+	 .megamenu-content [class*="mm-icon-"] {
+		margin-right: 6px;
+	}
+
+	/* Rotating tweets shortcode */
+
+	.megamenu-content .rtw_main {
+		font-size: 16px;
+		font-weight: 300;
+	}
+
+	.megamenu-content a {
+		line-height: 1.6!important;
+	}
+
+
+
+	/* Form items in mega-menu styling */
+
+	.megamenu-parent:not(.no-styling) input[type="text"],
+	.megamenu-parent:not(.no-styling) input[type="password"],
+	.megamenu-parent:not(.no-styling) input[type="date"],
+	.megamenu-parent:not(.no-styling) input[type="datetime"],
+	.megamenu-parent:not(.no-styling) input[type="email"],
+	.megamenu-parent:not(.no-styling) input[type="number"],
+	.megamenu-parent:not(.no-styling) input[type="search"],
+	.megamenu-parent:not(.no-styling) input[type="tel"],
+	.megamenu-parent:not(.no-styling) input[type="time"],
+	.megamenu-parent:not(.no-styling) input[type="url"] {
+		height: 34px;
+		line-height: 34px;
+		padding: 6px;
+		border-radius: 4px;
+	}
+
+	.megamenu-parent:not(.no-styling) textarea {
+		padding: 6px;
+		border-radius: 4px;
+	}
+
+	.megamenu-parent:not(.no-styling) input[type="submit"] {
+		border: medium none;
+		border-radius: 3px 3px 3px 3px;
+		height: 40px;
+		line-height: 40px;
+		padding: 8px 16px;
+	}
+
+	/**
+	* ----------------------------------------------------------------------
+	* Default styling skin ( Black Drop Downs )
+	* to disable any styling use '.no-styling' class for parent mega-menu item
+	*/
+	.megamenu-parent:not(.no-styling) > .megamenu-sub-menu,
+	.megamenu-parent:not(.no-styling) > .megamenu-sub-menu .megamenu-inner-sub-menu {
+		/* Disable some styling for dropdowns */
+		background: #2A2C2C;
+		color: #ADADAD;
+	}
+
+	/* Triangle color for megamenu parent*/
+
+	.megamenu-parent:hover:after {
+		border-color: transparent transparent #2A2C2C;
+	}
+
+	.megamenu-parent:not(.no-styling) > .megamenu-sub-menu .megamenu-inner-sub-menu:after {
+		content: '';
+		display: table;
+		clear:both;
+	}
+
+
+	.megamenu-parent:not(.no-styling) > .megamenu-sub-menu li:not(.megamenu-content):not(.megamenu-heading) > a,
+	.megamenu-parent:not(.no-styling) > .megamenu-sub-menu li:not(.megamenu-content):not(.megamenu-heading) {
+		font-size: 13px;
+		line-height: 1.6;
+	}
+
+	.megamenu-parent:not(.no-styling) .megamenu-content a {
+		padding: 0;
+	}
+
+	.megamenu-parent:not(.no-styling) .megamenu-content p:last-child {
+		margin-bottom: 0;
+	}
+
+	.megamenu-parent:not(.no-styling) > .megamenu-sub-menu a {
+		color: #E3E3E3!important;
+	}
+
+	.megamenu-parent:not(.no-styling) > .megamenu-sub-menu a:hover {
+		color: #FFF!important;
+	}
+
+	.megamenu-parent:not(.no-styling) > .megamenu-sub-menu li:not(.megamenu-heading):hover > a {
+		color: #FFF;
+	}
+
+	/**
+	 * Sub-menu arrow icon
+	 */
+
+	 .megamenu-parent:not(.no-styling) > .megamenu-sub-menu .has-dropdown > a:after {
+		display: none;
+	 }
+
+	 .megamenu-parent:not(.no-styling) > .megamenu-sub-menu li:not(.megamenu-heading):not(.megamenu-content) > a:before {
+		font-family: 'mm-iconfont';
+		speak: none;
+		font-style: normal;
+		font-weight: normal;
+		font-variant: normal;
+		text-transform: none;
+		line-height: 1;
+		-webkit-font-smoothing: antialiased;
+
+		content: "";
+
+		margin-left: -17px;
+		margin-right: 4px;
+
+		opacity: .5;
+	 }
+
+	 /* second level items have dot icon */
+	 .megamenu-parent:not(.no-styling) > .megamenu-sub-menu li:not(.megamenu-heading) li:not(.megamenu-heading)  li:not(.megamenu-heading) > a:before {
+		content: "";
+	 }
+
+	/* third level items have less visible icon */
+	.megamenu-parent:not(.no-styling) > .megamenu-sub-menu li:not(.megamenu-heading) li:not(.megamenu-heading)  li:not(.megamenu-heading) > a:before {
+		opacity: .3;
+	}
+
+	/* Headers */
+
+	.megamenu-parent:not(.no-styling) h1, .megamenu-parent:not(.no-styling) h2, .megamenu-parent:not(.no-styling) h3,
+	.megamenu-parent:not(.no-styling) h4, .megamenu-parent:not(.no-styling) h5, .megamenu-parent:not(.no-styling) h6,
+	.megamenu-parent:not(.no-styling) .megamenu-heading > a {
+		color: #F4F5F5!important;
+	}
+
+
+	.megamenu-parent:not(.no-styling) .megamenu-heading > a {
+		padding: 0 0 20px 0;
+		margin-top: 20px;
+		font-size: 16px;
+		cursor: default;
+	}
+
+	.megamenu-parent:not(.no-styling) .first-submenu-header > a {
+		margin-top: 0;
+	}
+
+	/* Google map by 'Simplified Google Maps Light' plugin */
+	.map-canvas {
+		margin-bottom: 20px;
+	}
+
+	.megamenu-content .map-canvas:last-child {
+		margin-bottom: 0;
+	}
+
+	/* Form items in mega-menu styling */
+
+	.megamenu-parent:not(.no-styling) input[type="text"],
+	.megamenu-parent:not(.no-styling) input[type="password"],
+	.megamenu-parent:not(.no-styling) input[type="date"],
+	.megamenu-parent:not(.no-styling) input[type="datetime"],
+	.megamenu-parent:not(.no-styling) input[type="email"],
+	.megamenu-parent:not(.no-styling) input[type="number"],
+	.megamenu-parent:not(.no-styling) input[type="search"],
+	.megamenu-parent:not(.no-styling) input[type="tel"],
+	.megamenu-parent:not(.no-styling) input[type="time"],
+	.megamenu-parent:not(.no-styling) input[type="url"] ,
+	.megamenu-parent:not(.no-styling) textarea {
+		background: #232323;
+		border: 1px solid #000000;
+		color: #C4C5C5;
+	}
+
+	.megamenu-parent:not(.no-styling) input[type="text"]:focus,
+	.megamenu-parent:not(.no-styling) input[type="password"]:focus,
+	.megamenu-parent:not(.no-styling) input[type="date"]:focus,
+	.megamenu-parent:not(.no-styling) input[type="datetime"]:focus,
+	.megamenu-parent:not(.no-styling) input[type="email"]:focus,
+	.megamenu-parent:not(.no-styling) input[type="number"]:focus,
+	.megamenu-parent:not(.no-styling) input[type="search"]:focus,
+	.megamenu-parent:not(.no-styling) input[type="tel"]:focus,
+	.megamenu-parent:not(.no-styling) input[type="time"]:focus,
+	.megamenu-parent:not(.no-styling) input[type="url"] :focus,
+	.megamenu-parent:not(.no-styling) textarea:focus {
+		background-color: #343434;
+		border-color: #4A4949;
+	}
+
+	.megamenu-parent:not(.no-styling) input[type="submit"] {
+		background-color: #D0D0D0;
+		box-shadow: 0 0 8px 3px rgba(255, 255, 255, 0.5) inset;
+	}
+
+	.megamenu-parent:not(.no-styling) input[type="submit"]:hover,
+	.megamenu-parent:not(.no-styling) input[type="submit"]:focus {
+		background-color: #EFEBEB;
+		box-shadow: 0 0 8px 3px rgba(255, 255, 255, 0.9) inset;
+	}
+
+
+	/**
+	* ----------------------------------------------------------------------
+	* White styling skin ( .skin-white )
+	* to disable any styling use '.no-styling' class for parent mega-menu item
+	*/
+	.megamenu-parent.skin-white > .megamenu-sub-menu,
+	.megamenu-parent.skin-white > .megamenu-sub-menu .megamenu-inner-sub-menu {
+		/* Disable some styling for dropdowns */
+		background: #FBFBFB;
+		color: #848484;
+	}
+
+	/* Triangle color for megamenu parent*/
+
+	.megamenu-parent.skin-white:hover:after {
+		border-color: transparent transparent #FBFBFB;
+	}
+
+	/* Links */
+	.megamenu-parent.skin-white > .megamenu-sub-menu a {
+		color: #060606!important;
+	}
+
+	.megamenu-parent.skin-white > .megamenu-sub-menu a:hover {
+		color: #000!important;
+	}
+
+	.megamenu-parent.skin-white > .megamenu-sub-menu li:not(.megamenu-heading):hover > a {
+		color: #000;
+	}
+
+	/* Headers */
+
+	.megamenu-parent.skin-white h1, .megamenu-parent.skin-white h2, .megamenu-parent.skin-white h3,
+	.megamenu-parent.skin-white h4, .megamenu-parent.skin-white h5, .megamenu-parent.skin-white h6,
+	.megamenu-parent.skin-white .megamenu-heading > a {
+		color: #959595!important;
+	}
+
+	/* Form items in mega-menu styling */
+
+	.megamenu-parent.skin-white input[type="text"],
+	.megamenu-parent.skin-white input[type="password"],
+	.megamenu-parent.skin-white input[type="date"],
+	.megamenu-parent.skin-white input[type="datetime"],
+	.megamenu-parent.skin-white input[type="email"],
+	.megamenu-parent.skin-white input[type="number"],
+	.megamenu-parent.skin-white input[type="search"],
+	.megamenu-parent.skin-white input[type="tel"],
+	.megamenu-parent.skin-white input[type="time"],
+	.megamenu-parent.skin-white input[type="url"] ,
+	.megamenu-parent.skin-white textarea {
+		background: #F1F1F1;
+		border: 1px solid #DADADA;
+		color: #454545;
+	}
+
+	.megamenu-parent.skin-white input[type="text"]:focus,
+	.megamenu-parent.skin-white input[type="password"]:focus,
+	.megamenu-parent.skin-white input[type="date"]:focus,
+	.megamenu-parent.skin-white input[type="datetime"]:focus,
+	.megamenu-parent.skin-white input[type="email"]:focus,
+	.megamenu-parent.skin-white input[type="number"]:focus,
+	.megamenu-parent.skin-white input[type="search"]:focus,
+	.megamenu-parent.skin-white input[type="tel"]:focus,
+	.megamenu-parent.skin-white input[type="time"]:focus,
+	.megamenu-parent.skin-white input[type="url"] :focus,
+	.megamenu-parent.skin-white textarea:focus {
+		background-color: #FFFFFF;
+		border-color: #CCCCCC;
+	}
+
+	.megamenu-parent.skin-white input[type="submit"] {
+		background-color: #E8E8E8;
+		box-shadow: 0 0 8px 3px rgba(255, 255, 255, 0.34) inset;
+		color: #787878;
+	}
+
+	.megamenu-parent.skin-white input[type="submit"]:hover,
+	.megamenu-parent.skin-white input[type="submit"]:focus {
+		background-color: #EFEFEF;
+		box-shadow: 0 0 7px 1px rgba(255, 255, 255, 0.66) inset, 0 1px 2px 0px rgba(69, 68, 68, 0.35);
+	}
+
+}
+@media only screen and (max-width: 767px) {
+	.megamenu-parent {
+		display: none;
+	}
+}

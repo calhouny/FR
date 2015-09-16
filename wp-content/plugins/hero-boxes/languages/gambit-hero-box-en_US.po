@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Loading Bar\n"
+"POT-Creation-Date: 2015-05-18 15:02+0800\n"
+"PO-Revision-Date: 2015-05-18 15:02+0800\n"
+"Last-Translator: Benjamin Intal <bf.intal@gambit.ph>\n"
+"Language-Team: Gambit <bfintal@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-plugin.php:38
+msgid "Random"
+msgstr ""
+
+#: ../class-plugin.php:39
+msgid "Lily"
+msgstr ""
+
+#: ../class-plugin.php:40
+msgid "Sadie"
+msgstr ""
+
+#: ../class-plugin.php:41
+msgid "Honey"
+msgstr ""
+
+#: ../class-plugin.php:42
+msgid "Layla"
+msgstr ""
+
+#: ../class-plugin.php:43
+msgid "Zoe"
+msgstr ""
+
+#: ../class-plugin.php:44
+msgid "Oscar"
+msgstr ""
+
+#: ../class-plugin.php:45
+msgid "Marley"
+msgstr ""
+
+#: ../class-plugin.php:46
+msgid "Ruby"
+msgstr ""
+
+#: ../class-plugin.php:47
+msgid "Roxy"
+msgstr ""
+
+#: ../class-plugin.php:48
+msgid "Bubba"
+msgstr ""
+
+#: ../class-plugin.php:49
+msgid "Romeo"
+msgstr ""
+
+#: ../class-plugin.php:50
+msgid "Dexter"
+msgstr ""
+
+#: ../class-plugin.php:51
+msgid "Sarah"
+msgstr ""
+
+#: ../class-plugin.php:52
+msgid "Chico"
+msgstr ""
+
+#: ../class-plugin.php:53
+msgid "Milo"
+msgstr ""
+
+#: ../class-plugin.php:54
+msgid "Julia"
+msgstr ""
+
+#: ../class-plugin.php:55
+msgid "Goliath"
+msgstr ""
+
+#: ../class-plugin.php:56
+msgid "Hera"
+msgstr ""
+
+#: ../class-plugin.php:57
+msgid "Winston"
+msgstr ""
+
+#: ../class-plugin.php:58
+msgid "Selena"
+msgstr ""
+
+#: ../class-plugin.php:59
+msgid "Terry"
+msgstr ""
+
+#: ../class-plugin.php:60
+msgid "Apollo"
+msgstr ""
+
+#: ../class-plugin.php:61
+msgid "Kira"
+msgstr ""
+
+#: ../class-plugin.php:62
+msgid "Steve"
+msgstr ""
+
+#: ../class-plugin.php:63
+msgid "Moses"
+msgstr ""
+
+#: ../class-plugin.php:64
+msgid "Jazz"
+msgstr ""
+
+#: ../class-plugin.php:65
+msgid "Ming"
+msgstr ""
+
+#: ../class-plugin.php:66
+msgid "Lexi"
+msgstr ""
+
+#: ../class-plugin.php:67
+msgid "Duke"
+msgstr ""
+
+#: ../class-plugin.php:133
+msgid "Get Customer Support"
+msgstr ""
+
+#: ../class-plugin.php:137
+msgid "Get More Plugins"
+msgstr ""
+
+#: ../class-plugin.php:253
+#, php-format
+msgid "Enjoying %s?"
+msgstr ""
+
+#: ../class-plugin.php:254
+msgid ""
+"Help us out by rating our plugin 5 stars in CodeCanyon! This will allow us "
+"to create more awesome products and provide top notch customer support."
+msgstr ""
+
+#: ../class-plugin.php:255
+msgid "Rate us 5 stars in CodeCanyon :)"
+msgstr ""
+
+#: ../class-plugin.php:256
+msgid "Remind me tomorrow"
+msgstr ""
+
+#: ../class-plugin.php:257
+msgid "I&apos;ve already rated!"
+msgstr ""
+
+#: ../class-plugin.php:331
+#, php-format
+msgid "Thank you for activating %s!"
+msgstr ""
+
+#: ../class-plugin.php:333
+msgid ""
+"Now just edit your pages and create a Hero Box element in Visual Composer."
+msgstr ""
+
+#: ../class-plugin.php:335
+msgid ""
+"If you need any support, you can leave us a ticket in our support site. The "
+"link to our support site is listed in the plugin details for future "
+"reference."
+msgstr ""
+
+#: ../class-plugin.php:336
+msgid "Visit our support site"
+msgstr ""
+
+#: ../class-plugin.php:338
+msgid "This notice will go away in a moment"
+msgstr ""
+
+#: ../class-plugin.php:361
+msgid "Hero Box"
+msgstr ""
+
+#: ../class-plugin.php:364
+msgid "Showcase your image in a hero box"
+msgstr ""
+
+#: ../class-plugin.php:368
+msgid "Upload Image"
+msgstr ""
+
+#: ../class-plugin.php:371
+msgid "Select the image that you want to display."
+msgstr ""
+
+#: ../class-plugin.php:375 ../class-plugin.php:431
+msgid "Select the design of your Hero Box"
+msgstr ""
+
+#: ../class-plugin.php:381
+msgid "Title"
+msgstr ""
+
+#: ../class-plugin.php:384
+msgid "Enter the title of your image here."
+msgstr ""
+
+#: ../class-plugin.php:388
+msgid "Caption/Description"
+msgstr ""
+
+#: ../class-plugin.php:391
+msgid "Enter a short caption of your image here."
+msgstr ""
+
+#: ../class-plugin.php:395 ../class-plugin.php:437
+msgid "Tint"
+msgstr ""
+
+#: ../class-plugin.php:398 ../class-plugin.php:440
+msgid "Tint your hero box with a cool color"
+msgstr ""
+
+#: ../class-plugin.php:402
+msgid "Link"
+msgstr ""
+
+#: ../class-plugin.php:405
+msgid "Enter a link here to make your hero box clickable."
+msgstr ""
+
+#: ../class-plugin.php:417
+msgid "Hero Box Gallery"
+msgstr ""
+
+#: ../class-plugin.php:420
+msgid "Create multiple hero boxes"
+msgstr ""
+
+#: ../class-plugin.php:424
+msgid "Upload Images"
+msgstr ""
+
+#: ../class-plugin.php:427
+msgid ""
+"Select images that you want to display in Hero Boxes. Hero Box titles and "
+"captions will come from the title and descriptions from each image that you "
+"select."
+msgstr ""
+
+#: ../class-plugin.php:444
+msgid "Columns"
+msgstr ""
+
+#: ../class-plugin.php:447
+msgid "1 Column"
+msgstr ""
+
+#: ../class-plugin.php:448
+msgid "2 Columns"
+msgstr ""
+
+#: ../class-plugin.php:449
+msgid "3 Columns"
+msgstr ""
+
+#: ../class-plugin.php:451
+msgid "Choose whether to display your hero box in 1-3 columns."
+msgstr ""
+
+#: ../class-plugin.php:504
+msgid "View more"
+msgstr ""

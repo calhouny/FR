@@ -1,0 +1,25 @@
+			@font-face {
+				font-family: 'Helvetica Neue';
+				font-style: normal;
+				src: url('//fr.fbcm.com/wp-content/uploads/useanyfont/150721045147Helvetica-Neue.eot');
+				src: local('Helvetica Neue'), url('//fr.fbcm.com/wp-content/uploads/useanyfont/150721045147Helvetica-Neue.eot') format('embedded-opentype'), url('//fr.fbcm.com/wp-content/uploads/useanyfont/150721045147Helvetica-Neue.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'Futura Book';
+				font-style: normal;
+				src: url('//fr.fbcm.com/wp-content/uploads/useanyfont/150721045655Futura-Book.eot');
+				src: local('Futura Book'), url('//fr.fbcm.com/wp-content/uploads/useanyfont/150721045655Futura-Book.eot') format('embedded-opentype'), url('//fr.fbcm.com/wp-content/uploads/useanyfont/150721045655Futura-Book.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'Futura Thin';
+				font-style: normal;
+				src: url('//fr.fbcm.com/wp-content/uploads/useanyfont/150721045902Futura-Thin.eot');
+				src: local('Futura Thin'), url('//fr.fbcm.com/wp-content/uploads/useanyfont/150721045902Futura-Thin.eot') format('embedded-opentype'), url('//fr.fbcm.com/wp-content/uploads/useanyfont/150721045902Futura-Thin.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'M Thin';
+				font-style: normal;
+				src: url('//fr.fbcm.com/wp-content/uploads/useanyfont/150722015201M-Thin.eot');
+				src: local('M Thin'), url('//fr.fbcm.com/wp-content/uploads/useanyfont/150722015201M-Thin.eot') format('embedded-opentype'), url('//fr.fbcm.com/wp-content/uploads/useanyfont/150722015201M-Thin.woff') format('woff');
+			}
+		

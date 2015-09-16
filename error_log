@@ -1,0 +1,22 @@
+[13-Jun-2015 03:23:34 UTC] PHP Fatal error:  Call to a member function retrieve() on a non-object in /home/tfields07/dev/fieldsresi/wp-content/themes/pagelines-framework/lib/controller.map.php on line 352
+[13-Jun-2015 03:34:46 UTC] PHP Fatal error:  Call to a member function retrieve() on a non-object in /home/tfields07/dev/fieldsresi/wp-content/themes/pagelines-framework/lib/controller.map.php on line 352
+[13-Jun-2015 03:36:33 UTC] WordPress database error Duplicate entry 'u12345' for key 'uid' for query INSERT INTO `wp_pl_data_sections` (`uid`, `draft`, `live`) VALUES ('u12345', '', '') made by require('wp-blog-header.php'), wp, WP->main, do_action_ref_array, call_user_func_array, PageLinesEditor->load_libs, PLSectionData->__construct, PLSectionData->install_table, PLSectionData->install_data
+[09-Aug-2015 23:47:30 UTC] PHP Warning:  Division by zero in /home/tfields07/dev/fieldsresi/wp-content/plugins/gallery-images/Front_end/gallery_front_end_view.php on line 1160
+[09-Aug-2015 23:47:30 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT * FROM wp_huge_itgallery_images where gallery_id = '0' order by ordering ASC LIMIT 0, made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/zeyn/fullwidth.php'), the_content, apply_filters('the_content'), call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, huge_it_gallery_images_list_shotrcode, huge_it_gallery_images_list, showPublishedgallery_1, front_end_gallery
+[16-Sep-2015 02:07:54 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:11:04 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:12:16 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:12:58 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:13:07 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:13:10 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:13:12 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:13:25 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:13:28 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:27:50 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:28:53 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:29:57 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:32:51 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:40:45 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:40:53 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:41:51 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24
+[16-Sep-2015 02:43:08 UTC] PHP Fatal error:  Call to undefined function is_detheme_home() in /home/tfields07/dev/fieldsresi/wp-content/themes/zeyn/header.php on line 24

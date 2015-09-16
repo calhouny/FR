@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){"use strict";$(".hero-box .hero-box-wrapper img").each(function(){$(this).parent().prepend($("<div></div>").addClass("hero-box-img").css("backgroundImage","url("+$(this).attr("src")+")")).end().remove()})});
